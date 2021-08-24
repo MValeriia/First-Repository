@@ -1,0 +1,40 @@
+{
+	"users":
+	[
+		{
+			"Fullname": "Ivanov Ivan",
+			"Record book": 245815,
+			"Birthday": "24.06.2002",
+			"Numerical grade": 97,
+			"Scholarship": true
+		},
+		{
+			"Fullname": "Petrov Petr",
+			"Record book": 169742,
+			"Birthday": "18.12.2001",
+			"Numerical grade": 62,
+			"Scholarship": false
+		},
+		{
+			"Fullname": "Sidorov Vasily",
+			"Record book": 586473,
+			"Birthday": "07.09.2002",
+			"Numerical grade": 95,
+			"Scholarship": true
+		},
+		{
+			"Fullname": "Kravchenko Andrey",
+			"Record book": 587416,
+			"Birthday": "15.07.2001",
+			"Numerical grade": 88,
+			"Scholarship": true
+		},
+		{	
+			"Fullname": "Boyko Oleg",
+			"Record book": 369175,
+			"Birthday": "22.10.2001",
+			"Numerical grade": 70,
+			"Scholarship": false
+		}
+	]
+}

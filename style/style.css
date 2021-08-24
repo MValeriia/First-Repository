@@ -1,0 +1,41 @@
+.layer0 {
+	font-size: 120%;
+}
+.layer1 {
+	margin: 5%;
+	margin-bottom: -7px;
+	margin-top: 0%;
+}
+.verticalLine {
+	border-left-color: #787878;
+	border-left-style: dotted;
+	border-left-width: 3px;
+	padding: 0 40px;
+	margin: 0 10px;
+}
+.ul {
+	list-style-position: inside;
+	-moz-column-count: 2; 
+	-webkit-column-count: 2;
+	column-count: 2;
+	height: 100px;
+	padding-inline-start: 0px;
+}
+.ul li {
+	color: #228B22;
+}
+.ul li span {
+	color: #787878;
+}
+.w-50 {
+	width: 50%;
+}
+.gray {
+	color:#3C3C3C;
+}
+.green {
+	color:#228B22;
+}
+.light-gray {
+	color:#787878;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+			<Fullname>Ivanov Ivan</Fullname>
+			<Record_book>245815</Record_book>
+			<Birthday>24.06.2002</Birthday>
+			<Numerical_grade>97</Numerical_grade>
+			<Scholarship>true</Scholarship>
+	</user>
+	<user>
+			<Fullname>Petrov Petr</Fullname>
+			<Record_book>169742</Record_book>
+			<Birthday>18.12.2001</Birthday>
+			<Numerical_grade>62</Numerical_grade>
+			<Scholarship>false</Scholarship>
+	</user>
+	<user>
+			<Fullname>Sidorov Vasily</Fullname>
+			<Record_book>586473</Record_book>
+			<Birthday>07.09.2002</Birthday>
+			<Numerical_grade>95</Numerical_grade>
+			<Scholarship>true</Scholarship>
+	</user>
+	<user>
+			<Fullname>Kravchenko Andrey</Fullname>
+			<Record_book>587416</Record_book>
+			<Birthday>15.07.2001</Birthday>
+			<Numerical_grade>88</Numerical_grade>
+			<Scholarship>true</Scholarship>
+	</user>
+	<user>
+			<Fullname>Boyko Oleg</Fullname>
+			<Record_book>369175</Record_book>
+			<Birthday>22.10.2001</Birthday>
+			<Numerical_grade>70</Numerical_grade>
+			<Scholarship>false</Scholarship>
+	</user>
+</users>
